@@ -28,9 +28,9 @@
 *.app
 
 # build
-
+cmake-build*
 build/
 
 # other directories
-
+.idea/
 *_/
