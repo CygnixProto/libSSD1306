@@ -28,8 +28,9 @@
 #include <stdbool.h>
 #include <stdio.h>
 #include <string.h>
-#include <termio.h>
+#include <termios.h>
 #include <unistd.h>
+#include <sys/ioctl.h>
 
 #include "LinuxKeys.h"
 
